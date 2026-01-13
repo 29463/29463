@@ -14,12 +14,12 @@ Founder of <b>AgriAquaTech</b> — building smart, field-ready IoT systems for a
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=29463&theme=tokyo-night&area=true&hide_border=false" width="100%"/>
 </div>
 
 ###
 
+<!-- ✔ RESTORED YOUR ORIGINAL GIF -->
 <img align="right" height="190" src="https://i.imgflip.com/65efzo.gif" />
 
 ---
@@ -79,17 +79,17 @@ SCADA Basics • Sensor Interfaces • PCB Design
 - Automated feeding with programmable logic  
 - Water quality monitoring + alerting  
 - Solar-powered with battery backup  
-- GSM + IoT dashboard + mobile control
+- GSM + IoT dashboard & mobile control
 
 ---
 
-### 📡 **2. Multi-Device GSM→Hub→Cloud IoT Network (50+ Field Units)**
+### 📡 **2. Multi-Device GSM→Hub→Cloud Network (50+ Field Units)**
 - Distributed GSM tracker nodes (Arduino SIM-based)
 - Central hub (**ESP32-GSM**) aggregating data  
-- Rogue-proof scaling — just insert another SIM device  
-- Hub uploads real-time streams to **ThingsBoard Cloud**  
-- Supports 2-way commands (cloud → hub → device)  
-- Ideal for farms, fleets, remote machinery & security
+- Add new devices without updating hub  
+- Real-time upload to **ThingsBoard Cloud**  
+- Commands cloud → hub → nodes  
+- Used for farms, fleets & remote assets
 
 ---
 
@@ -98,13 +98,15 @@ SCADA Basics • Sensor Interfaces • PCB Design
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="[https://img.shields.io/static_v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)=white&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
 </div>
 
 <br clear="both">
 
-### 🐍 GitHub Activity Animation
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+---
+
+### 🐍 GitHub Activity Animation  
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 ---
 
